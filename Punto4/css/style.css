@@ -1,0 +1,27 @@
+*{
+    background-color: #999;
+}
+
+.div{
+    font-size: 20px;
+    text-align: center;
+}
+.red {
+color: #ff0000;
+}
+
+.blue{
+color: #0000ff;
+}
+
+.big {
+font-size: 30px;
+}
+
+.small{
+font-size: 15px;
+}
+
+.italic {
+font-style: italic;
+}

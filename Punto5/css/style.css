@@ -1,0 +1,38 @@
+
+.div{       
+    display: grid;
+    place-items: center;
+    margin: auto;
+}
+p{
+    line-height: 35px;
+}
+.green {
+    color: #0a9600;
+    text-decoration: underline;
+}
+
+.red{
+    color: #ff0000;
+    font-weight: 700;
+}
+
+.overline {
+    text-decoration: overline underline;
+}
+
+.size{
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.blue{
+    color: #0000ff;
+    font-weight: 700;
+}
+
+.red_line {
+    color: #ff0000;
+    text-decoration: underline;
+    font-weight: 700;
+}
